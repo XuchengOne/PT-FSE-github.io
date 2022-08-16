@@ -11,10 +11,7 @@ If you have any questions or concerns, please send email to wanxucheng@huawei.co
 
 Noisy:<audio id="audio" controls="" preload="none"> <source id="mp3" src="./audios/noisy_clnsp22_breath_21983_0_snr1_tl-18_fileid_50.wav">
 
-Clean:
-<audio id="audio" controls="" preload="none">
-    <source id="mp3" src="./audios/clean_fileid_50.wav">
-</audio>
+Clean:<audio id="audio" controls="" preload="none"> <source id="mp3" src="./audios/clean_fileid_50.wav">
 
 Baseline:
 <audio id="audio" controls="" preload="none">
