@@ -184,7 +184,7 @@ FULL:
 
 ### Example Six
 
-![avatar](./figures/field280.JPG)
+![avatar](./figures/field300.JPG)
 
 Noisy:
 <audio id="audio" controls="" preload="none">
