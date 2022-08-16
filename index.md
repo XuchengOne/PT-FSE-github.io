@@ -1,5 +1,6 @@
 ## PT-FSE audio demos
-
+We randomly choose six test audios as demos presented here.
+Along with some highlighted part of the spectrogram figures for each group.
 
 
 ### Example One
