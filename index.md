@@ -2,6 +2,8 @@
 We randomly choose six test audios as demos presented here.
 Along with some highlighted part of the spectrogram figures for each group.
 
+If you have any questions or concerns, please send email to wanxucheng@huawei.com
+
 
 ### Example One
 
