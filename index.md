@@ -4,7 +4,7 @@
 
 ### Example One
 
-![avatar](./fugures/field50.JPG)
+![avatar](./figures/field50.JPG)
 
 Noisy:
 <audio id="audio" controls="" preload="none">
@@ -39,7 +39,7 @@ FULL:
 
 ### Example Two
 
-![avatar](./fugures/field101.JPG)
+![avatar](./figures/field101.JPG)
 
 <audio id="audio" controls="" preload="none">
     <source id="mp3" src="./audios/noisy_clnsp198_bus_56903_0_snr0_tl-32_fileid_101.wav">
