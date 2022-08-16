@@ -1,6 +1,6 @@
 ## PT-FSE audio demos
-We randomly choose six test audios as demos presented here.
-Along with some highlighted part of the spectrogram figures for each group.
+We randomly choose six test audio samples and list them here as enhancement demos.
+The figures of each demo group contain highlighted parts of the T-F spectrograms.
 
 If you have any questions or concerns, please send email to wanxucheng@huawei.com
 
