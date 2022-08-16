@@ -9,19 +9,35 @@ If you have any questions or concerns, please send email to wanxucheng@huawei.co
 
 ![avatar](./figures/field50.JPG)
 
-Noisy:<audio id="audio" controls="" preload="none"> <source id="mp3" src="./audios/noisy_clnsp22_breath_21983_0_snr1_tl-18_fileid_50.wav">
+Noisy:
+<audio id="audio" controls="" preload="none"> 
+    <source id="mp3" src="./audios/noisy_clnsp22_breath_21983_0_snr1_tl-18_fileid_50.wav">
+</audio>
 
-Clean:<audio id="audio" controls="" preload="none"> <source id="mp3" src="./audios/clean_fileid_50.wav">
+Clean:
+<audio id="audio" controls="" preload="none"> 
+    <source id="mp3" src="./audios/clean_fileid_50.wav">
+</audio>
 
-Baseline:<audio id="audio" controls="" preload="none"><source id="mp3" src="./audios/baseline_clnsp22_breath_21983_0_snr1_tl-18_fileid_50.wav"></audio>
+Baseline:
+<audio id="audio" controls="" preload="none">
+    <source id="mp3" src="./audios/baseline_clnsp22_breath_21983_0_snr1_tl-18_fileid_50.wav">
+</audio>
 
-Baseline + F-trans: <audio id="audio" controls="" preload="none"> <source id="mp3" src="./audios/Ftrans_clnsp22_breath_21983_0_snr1_tl-18_fileid_50.wav">
-
-Baseline + F-trans + T-trans
-<audio id="audio" controls="" preload="none"><source id="mp3" src="./audios/FTtrans_clnsp22_breath_21983_0_snr1_tl-18_fileid_50.wav">
-
-FULL:<audio id="audio" controls="" preload="none"> <source id="mp3" src="./audios/FULL_clnsp22_breath_21983_0_snr1_tl-18_fileid_50.wav">
-
+Baseline + F-trans:
+<audio id="audio" controls="" preload="none">
+    <source id="mp3" src="./audios/Ftrans_clnsp22_breath_21983_0_snr1_tl-18_fileid_50.wav">
+</audio>
+    
+Baseline + F-trans + T-trans:
+<audio id="audio" controls="" preload="none">
+    <source id="mp3" src="./audios/FTtrans_clnsp22_breath_21983_0_snr1_tl-18_fileid_50.wav">
+</audio>
+    
+FULL:
+<audio id="audio" controls="" preload="none">
+    <source id="mp3" src="./audios/FULL_clnsp22_breath_21983_0_snr1_tl-18_fileid_50.wav">
+</audio>
 
 
 ### Example Two
